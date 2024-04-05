@@ -1,5 +1,5 @@
 # ElectromagnetismoTarea3
-El algoritmo funciona crenado una matriz con los paramétros especificados en la funcion "calculo"
+El algoritmo funciona creando una matriz con los parametros especificados en la funcion "calculo"
 Se crea una matriz con las condiciones de frontera y una matriz interior de tamaño N*M de ceros (dado que puede ser cualquier valor arbitrario)
 Despues el algoritmo relaja la matriz hasta que no se cambien los valores de manera sensible
 Por ultimo el algoritmo realiza una grafica de la solución analitica completa de la ecuacion de Laplace
